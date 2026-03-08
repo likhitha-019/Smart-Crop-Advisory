@@ -156,7 +156,10 @@ Opens fullscreen like a native app — no app store needed!
 ![Landing](images/landing.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
+
+### Account Creation
+![Account Creation](images/Account creation.png)
 
 ### Crop Advisor
 ![Crop Advisor](images/crop_advisor.png)
@@ -171,10 +174,25 @@ Opens fullscreen like a native app — no app store needed!
 ![Market Prices](images/market_prices.png)
 
 ### Price Forecast
-![Price Forecast](images/price_forecast.png)
+![Price Forecast](images/price forecast.png)
 
 ### Weather Forecast
-![Weather](images/weather.png)
+![Weather](images/Weather-forecast.png)
 
 ### AI Assistant
-![AI Assistant](images/ai_assistant.png)
+![AI Assistant](images/AI-Assistant.png)
+
+### Recommendation History
+![History](images/Rec History.png)
+
+### Profit Advisory
+![Profit Advisory](images/Profit Advisory.png)
+
+### Language Translation
+![Language](images/Language translation.png)
+
+### Weather Alerts
+![Weather Alerts](images/Weather Alerts.png)
+
+### Profile and Settings
+![Profile](images/Profile and settings.png)
