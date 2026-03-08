@@ -183,16 +183,16 @@ Opens fullscreen like a native app — no app store needed!
 ![AI Assistant](images/AI-Assistant.png)
 
 ### Recommendation History
-![History](images/rec_history.png)
+![History](images/Rec History.png)
 
 ### Profit Advisory
-![Profit](images/profit_advisory.png)
+![Profit Advisory](images/Profit Advisory.png)
 
 ### Language Translation
-![Language](images/language_translation.png)
+![Language Translation](images/Language translation.png)
 
 ### Weather Alerts
-![Alerts](images/weather_alerts.png)
+![Weather Alerts](images/Weather Alerts.png)
 
 ### Profile & Settings
-![Profile](images/profile_settings.png)
+![Profile](images/Profile and settings.png)
