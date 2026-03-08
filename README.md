@@ -1,8 +1,6 @@
 # 🌿 Kisan AI — Smart Crop Advisor v2
 
 **AI-powered, profit-first farming advisory system for Indian farmers**  
-VIT Bhopal SDP Project · Team: N. Avyay, M. Pranathi, D. Snehaja  
-Guide: Prof. Debasis Dwibedy
 
 ---
 
@@ -52,12 +50,12 @@ python notebooks/train_market_predictor.py
 ### 3. Start API server
 ```bash
 cd api
-uvicorn main:app --reload
-# → http://localhost:8000
+uvicorn main:app --reload --port 8001
+# → http://localhost:8001
 ```
 
 ### 4. Open the app
-Open `frontend/index.html` in browser, or the backend serves it at `http://localhost:8000`
+Open `frontend/index.html` in browser, or the backend serves it at `http://localhost:8001`
 
 ---
 
