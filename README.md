@@ -149,3 +149,32 @@ Opens fullscreen like a native app — no app store needed!
 | [Anthropic](https://console.anthropic.com) | AI chatbot (optional) | Pay per use |
 
 > Without Anthropic key, chatbot uses built-in rule-based responses — still works!
+>
+## Application Screenshots
+
+### Landing Page
+![Landing](images/landing.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Crop Advisor
+![Crop Advisor](images/crop_advisor.png)
+
+### Fertilizer Recommendation
+![Fertilizer](images/fertilizer.png)
+
+### Disease Detection
+![Disease Scan](images/disease_scan.png)
+
+### Market Prices
+![Market Prices](images/market_prices.png)
+
+### Price Forecast
+![Price Forecast](images/price_forecast.png)
+
+### Weather Forecast
+![Weather](images/weather.png)
+
+### AI Assistant
+![AI Assistant](images/ai_assistant.png)
