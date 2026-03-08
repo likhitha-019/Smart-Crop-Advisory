@@ -189,7 +189,7 @@ Opens fullscreen like a native app — no app store needed!
 ![Profit Advisory](images/Profit Advisory.png)
 
 ### Language Translation
-![Language Translation](images/Language translation.png)
+![Language](images/Language translation.png)
 
 ### Weather Alerts
 ![Weather Alerts](images/Weather Alerts.png)
